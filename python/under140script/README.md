@@ -1,5 +1,13 @@
 #実行環境
-Python 2.7.7 |Anaconda 2.0.1 (x86_64)|
+Python 2.7.7 Anaconda 2.0.1 (x86_64)
+
+#実行時間
+time python shintyoku.py により計測した．
+real	0m0.312s
+user	0m0.257s
+sys	0m0.048s
+数回の実行で遅いなと感じた時間を示した．
+(詳しく統計は取っていない)
 
 #プログラム
     #coding:utf-8
