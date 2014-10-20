@@ -6,4 +6,4 @@
 Python 2.7.7 Anaconda 2.0.1 (x86_64)
 
 #参考サイト
-[](http://momijiame.tumblr.com/post/77799699370/python-qrcode-qr)
+[Python の qrcode で QR コードを作ってみる](http://momijiame.tumblr.com/post/77799699370/python-qrcode-qr)
