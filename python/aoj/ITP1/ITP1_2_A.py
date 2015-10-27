@@ -1,8 +1,7 @@
 # encoding:utf-8
 
 input = map(int, raw_input().split())
-a = input[0]
-b = input[1]
+a, b = input
 
 if a == b:
 	print("a == b")

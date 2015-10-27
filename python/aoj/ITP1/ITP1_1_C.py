@@ -1,9 +1,9 @@
 # encoding:utf-8
 
 input = map(int, raw_input().split())
-height = input[0]
-width = input[1]
+
+height, width = input
 area = height * width
 circumference = (height + width) * 2
-print(area),
-print(circumference)
+
+print(" ".join(map(str, (area, circumference))))
